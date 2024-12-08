@@ -1,4 +1,4 @@
-package com.github.AnujMhatre21.JUtil.Encryption.Date;
+package com.github.AnujMhatre21.JUtil.Date;
 
 import java.sql.Timestamp;
 import java.text.DateFormat;
