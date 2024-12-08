@@ -1,4 +1,4 @@
-package com.github.AnujMhatre21.JUtil;
+package com.github.AnujMhatre21.JUtil.Encryption;
 
 import java.util.Base64;
 
